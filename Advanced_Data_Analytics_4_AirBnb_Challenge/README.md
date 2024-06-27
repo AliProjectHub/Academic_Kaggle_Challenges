@@ -3,7 +3,7 @@
 :sparkles: Welcome to this repo documenting my final submission to the Advanced Data Analytics Seminar at Humboldt University Berlin. 
 
 ## Content
-:snake: Python Notebook (as .ipynb and .py)
+:snake: Python Notebook (as .ipynb)
 
 :file_folder: Processed data included in data folder 
 
