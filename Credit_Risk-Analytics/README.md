@@ -17,6 +17,3 @@
 :rocket: You are now ready to rock n' roll! 
 
 :sunny: Have fun! 
-
-## Questions
-:mailbox_with_no_mail: To get in touch with us, send an e-mail to 'group2@gmx.net'. 
